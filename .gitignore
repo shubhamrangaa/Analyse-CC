@@ -95,3 +95,6 @@ Desktop.ini
 # === Misc ===
 *.bak
 *.local
+
+token.json
+credentials.json
